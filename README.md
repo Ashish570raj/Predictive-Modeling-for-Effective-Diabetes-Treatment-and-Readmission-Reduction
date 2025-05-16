@@ -89,7 +89,7 @@ This project aims to analyze patient data from **130 US hospitals over a 10-year
 ##  Author
 
 **Ashish Raj**    
-GitHub: [ashishraj987](https://github.com/ashish570raj)
+GitHub: [ashishraj570raj](https://github.com/ashish570raj)
 
 ---
 
